@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Graduate Software Engineer with a strong interest in backend development.
+I'm a Graduate Software Engineer with a focus in backend development.
 
 I primarily work with **Java and Spring Boot**, building RESTful APIs and scalable backend systems. I also have experience with **Python, SQL, HTML, and CSS**, and enjoy designing clean, maintainable code and database-driven applications.
 
